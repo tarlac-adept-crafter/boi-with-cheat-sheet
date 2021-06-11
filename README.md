@@ -22,7 +22,7 @@ please let me know if you find out!
   own script file).
 3. Copy/cut/paste the `boi_platinum_god.bat` script to wherever you want it.
 4. Double-click the script. Your default browser should open 
-  `https://platinumgod.co.uk` and BOI should launch through Steam.
+  https://platinumgod.co.uk and BOI should launch through Steam.
   
 ### Optional
 
