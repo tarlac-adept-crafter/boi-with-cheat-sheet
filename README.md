@@ -31,6 +31,15 @@ please let me know if you find out!
 - Rename the script/shortcut.
 - Change the script or shortcut icon. 
     - To do this, right-click the script/shortcut, click "Properties". Under
-      the "Shortcut" tab, click "Change Icon...", click "OK" if a window about
-      no icons in the current file appears, and "Browse..." for your icon.
-    - Steam game icons are usually stored in `path/to/Steam/steam/games`.
+      the "Shortcut" tab, click "Change Icon...", click "OK" on the window 
+      about no icons in the current file appears, and "Browse..." for an icon.
+    - Steam game icons are usually stored in `path/to/Steam/steam/games`. The
+      game executable will also usually have an icon you can select.
+
+## Modification
+
+This script is licensed under [CC0-1.0](LICENSE), meaning I am giving up all copyrights 
+and you can do whatever you want with it (not legal advice), so have fun
+using and modifying it to your heart's content! The only thing I ask, and this
+is not required at all, is that you let me know what cool things you do with
+it or any lessons you learned that I could apply as well!
