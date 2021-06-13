@@ -6,6 +6,8 @@ This script opens
 [the Isaac Cheat Sheet from Platinum God](https://platinumgod.co.uk/) 
 in your default browser and launches BOI through Steam!
 
+*Note:* This script is not affiliated with Platinum God or The Binding of Isaac in any way.
+
 ## Prerequisites
 
 - Windows 10\*
