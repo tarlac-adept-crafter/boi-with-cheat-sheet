@@ -16,7 +16,8 @@ in your default browser and launches BOI through Steam!
 
 \* This script has only been tested on Windows 10, but it should work on 
 Windows 7. I have no clue if it will work on anything older than that, but 
-please let me know if you find out!
+please let me know if you find out! I also don't know about Windows 11
+compatibility.
 
 ## Usage
 
